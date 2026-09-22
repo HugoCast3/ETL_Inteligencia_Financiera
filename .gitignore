@@ -1,0 +1,11 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos basura del sistema
+__pycache__/
+.DS_Store
+
+# Archivos de Power BI (Opcional, si no quieres subir el .pbix pesado)
+*.pbix
